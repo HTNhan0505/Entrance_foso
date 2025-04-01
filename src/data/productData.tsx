@@ -1,0 +1,38 @@
+export const productData = [
+  {
+    id: "1",
+    status: "Chưa sản xuất",
+    statusColor: "#FF811A26",
+    statusTextColor: "#C25705",
+    code: "LSX-13032514",
+    deadline: "13/03/2025",
+    pinned: true,
+  },
+  {
+    id: "2",
+    status: "Đang sản xuất",
+    statusColor: "#3EC3F733",
+    statusTextColor: "#076A94",
+    code: "LSX-13032514",
+    deadline: "13/03/2025",
+    pinned: true,
+  },
+  {
+    id: "3",
+    status: "Hoàn thành",
+    statusColor: "#35BD4B33",
+    statusTextColor: "#1A7526",
+    code: "LSX-13032514",
+    deadline: "13/03/2025",
+    pinned: false,
+  },
+  {
+    id: "4",
+    status: "Hoàn thành",
+    statusColor: "#BBF7D0",
+    statusTextColor: "#166534",
+    code: "LSX-13032514",
+    deadline: "13/03/2025",
+    pinned: false,
+  },
+];
